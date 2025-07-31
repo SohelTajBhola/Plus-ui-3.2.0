@@ -65,7 +65,7 @@ Whether you’re running a **movie blog**, **tech blog**, **personal site**, or 
 - **Size**: ~50KB
 - **Last Updated**: June 2025
 - **License**: Free to use (MIT License)
-- **Direct Download**: [Click here to download](https://t.me/Blogger_Templates_Updated/11)
+- **Direct Download**: [Click here to download](https://t.me/Techlystb)
 
 ---
 
@@ -155,7 +155,7 @@ Want to contribute or suggest improvements?
 - Fork the repo
 - Create a new branch (`feature/your-feature`)
 - Submit a pull request
-- Or open an [Issue](https://github.com/blogger-templates/Plus-UI-V3.2.0/issues)
+- Or open an [Issue](https://github.com/soheltajbhola/Plus-UI-V3.2.0/issues)
 
 We welcome contributions, feature suggestions, or language translations.
 
@@ -179,10 +179,10 @@ A: Yes. The layout supports thumbnails, titles, descriptions, and post metadata 
 
 ## 🔗 Useful Links
 
-- [Live Demo](https://plus-ul.blogspot.com/)
-- [Download Now](https://raw.githubusercontent.com/blogger-templates/Plus-UI-V3.2.0/main/plus-ui.xml)
+- [Live Demo](https://tinyurl.com/27qlnfdu)
+- [Download Now](https://aveestb.blogspot.com/2023/06/plus-ui-blogger-template-download-free.html)
 - [Documentation](https://plus-ul.blogspot.com/2024/10/getting-started-and-installation.html)
-- [GitHub Issues](https://github.com/blogger-templates/Plus-UI-V3.2.0/issues)
+- [GitHub Issues](https://github.com/soheltajbhola/Plus-UI-V3.2.0/issues)
 
 ---
 
@@ -244,7 +244,7 @@ All templates are carefully selected to help you create amazing Blogger sites wi
 ## Join Our Telegram Channel
 Stay updated with new templates, updates, and tips!
 
-👉 [Join Telegram Channel](https://t.me/Blogger_Templates_Updated)
+👉 [Join Telegram Channel](https://t.me/Techlystb)
 
 ---
 
@@ -255,4 +255,4 @@ Have a Blogger template you'd like to share? Feel free to submit a pull request!
 All templates in this repository are shared under open and fair use for educational and personal blogging purposes. Always check individual template licenses if provided.
 
 ---
-> Created with ❤️ by [blogger-templates](https://github.com/blogger-templates)
+> Created with ❤️ by [blogger-templates](https://github.com/soheltajbhola)
