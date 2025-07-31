@@ -1,9 +1,6 @@
-# Plus-ui-3.2.0
-
-
-
-
 # Plus UI v3.2.0 – Premium Blogger Template
+
+# Plus-ui-3.2.0
 
 > **Modern, Fast, Responsive, SEO-Optimized Blogger Theme for Professional Blogging**
 
@@ -155,7 +152,7 @@ Want to contribute or suggest improvements?
 - Fork the repo
 - Create a new branch (`feature/your-feature`)
 - Submit a pull request
-- Or open an [Issue](https://github.com/soheltajbhola/Plus-UI-V3.2.0/issues)
+- Or open an [Issue](https://github.com/SohelTajBhola/Plus-ui-3.2.0/issues)
 
 We welcome contributions, feature suggestions, or language translations.
 
@@ -182,7 +179,7 @@ A: Yes. The layout supports thumbnails, titles, descriptions, and post metadata 
 - [Live Demo](https://tinyurl.com/27qlnfdu)
 - [Download Now](https://aveestb.blogspot.com/2023/06/plus-ui-blogger-template-download-free.html)
 - [Documentation](https://plus-ul.blogspot.com/2024/10/getting-started-and-installation.html)
-- [GitHub Issues](https://github.com/soheltajbhola/Plus-UI-V3.2.0/issues)
+- [GitHub Issues](https://github.com/SohelTajBhola/Plus-ui-3.2.0/issues)
 
 ---
 
@@ -200,11 +197,11 @@ If you're looking for a **professional Blogger theme** that combines **style**, 
 **📣 Share with others** who use Blogger  
 **💬 Got feedback?** We’d love to hear from you!
 
+---
 
+---
 
-
-
-
+---
 
 # Free Blogger Templates Collection
 
@@ -244,7 +241,7 @@ All templates are carefully selected to help you create amazing Blogger sites wi
 ## Join Our Telegram Channel
 Stay updated with new templates, updates, and tips!
 
-👉 [Join Telegram Channel](https://t.me/Techlystb)
+👉 [Join Telegram Channel](https://t.me/soheltajbhola)
 
 ---
 
